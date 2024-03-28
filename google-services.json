@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "390557849441",
+    "project_id": "itec222registrationform-c0856",
+    "storage_bucket": "itec222registrationform-c0856.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390557849441:android:266245aff6f1c461ab5720",
+        "android_client_info": {
+          "package_name": "com.jkyleperegrino.ITEC222_RegistrationForm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390557849441-edp79o2692u4e84r2e5jmk1e4uf2gdir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jkyleperegrino.ITEC222_RegistrationForm",
+            "certificate_hash": "805d1ba7f83abcc593c3e2eb6ae19e6e42e0c0eb"
+          }
+        },
+        {
+          "client_id": "390557849441-hipnocsk9vij9uskidvinisq8kh69rea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jkyleperegrino.ITEC222_RegistrationForm",
+            "certificate_hash": "6453a91e23d1a8e3593df51fd88835611395a1ed"
+          }
+        },
+        {
+          "client_id": "390557849441-no23ciurb92pqo0jgsfflk16nb0nvtn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1FKYCMQQ4DCbLLgfW_A5ehLCr3AJTckc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390557849441-no23ciurb92pqo0jgsfflk16nb0nvtn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
